@@ -44,5 +44,3 @@ Book Bazaar is an Online Ecommerce Website for selling books, developed using py
 <img width=100% src="https://raw.githubusercontent.com/Sandip-Basak/Book-Bazaar/main/readme_images/Screenshot%202024-08-29%20110710.jpg" alt="App Images">
 </div>
 <br>
-
-##
